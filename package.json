@@ -1,0 +1,18 @@
+{
+  "name": "atom-ide-w3css",
+  "main": "./lib/atom-ide-w3css",
+  "version": "0.0.0",
+  "description": "Uma alternativa de qualidade para bootstrap",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-ide-w3css:toggle"
+  },
+  "repository": "https://github.com/atom/atom-ide-w3css",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
