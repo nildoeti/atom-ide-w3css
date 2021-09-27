@@ -3,7 +3,6 @@
 
 - Uma alternativa de qualidade para bootstrap
 - W3.CSS é menor, mais rápido e fácil de usar, que outras alternativas de frameworks CSS.
-- W3.CSS é menor, mais rápido e fácil de usar.
 - W3.CSS fornece igualdade para todos os navegadores: Chrome. Firefox. Edge. IE. Safari. Opera.
 - W3.CSS fornece igualdade para todos os dispositivos: Desktop. Laptop. Tablet. Mobile.
 - W3.CSS é apenas CSS padrão (sem biblioteca jQuery ou JavaScript).
